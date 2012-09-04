@@ -14,6 +14,8 @@ public class CollectionDemo
       workWith(new ArrayList<String>());
       System.out.println("Working with a TreeSet");
       workWith(new TreeSet<String>());
+      
+      System.out.println();
    }
 
    /**
