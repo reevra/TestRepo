@@ -19,7 +19,7 @@ public class CollectionDemo
    }
 
    /**
-      Shows how to work with a collection of strings.
+      Show\s how to work with a collection of strings.
       @param coll a collection from the Java collections framework
    */
    public static void workWith(Collection<String> coll)
