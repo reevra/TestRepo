@@ -1,13 +1,10 @@
-
-
-
 import java.util.LinkedList;
 import java.util.ListIterator;
 
 /**
    This program demonstrates the LinkedList class.
 */
-public class ListDemo
+public class ListDemo1
 {  
    public static void main(String[] args)
    {  
@@ -40,7 +37,8 @@ public class ListDemo
 
       System.out.println(staff);
       System.out.println("Expected: [Diana, Harry, Juliet, Nina, Tom]");
+      
+      System.out.println("test to see the changes made to the list demo file");
    }
 }
 
- 
